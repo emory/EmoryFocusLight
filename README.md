@@ -4,7 +4,7 @@ This is a light and breezy OmniFocus theme with some light color syntaxing for s
 
 The font I use in this style is [Segoe UI](http://www.microsoft.com/typography/fonts/family.aspx?FID=331), it also looks good (my opinion) with Ubuntu, Droid Sans, Geneva, but maybe you prefer Comic Sans.
 
-![a screenshot with redaction nonsense](redactedsnapshot.png "screenshot of EmoryFocusLight")
+![a screenshot with redaction nonsense](https://github.com/emory/EmoryFocusLight/blob/master/redactedsnapshot.png "screenshot of EmoryFocusLight")
 
 # Contact and whatever
 
